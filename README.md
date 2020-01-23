@@ -29,4 +29,4 @@ The secret to solving it was to linearize the problem and use mixed integer prog
 
 I would like to thank **Heng CherKen** for your great ideas here: https://www.kaggle.com/c/santa-workshop-tour-2019/discussion/120764
 
-My implementation was developed using Gurobi with academic license.
+My implementation was developed using Gurobi with academic license and was the 30th to reach the optimum.
